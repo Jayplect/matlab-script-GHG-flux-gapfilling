@@ -9,5 +9,3 @@ Elke Eichelmann
 
 ## Usage and Description
 Coming soon!
-
-Jacob
